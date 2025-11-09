@@ -19,7 +19,7 @@ python main.py books/frankenstein.txt
 Output:
 ```
 ============ BOOKBOT ============
-Analyzingbook found at books/frankenstein.txt...
+Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
 Found 75767 total words
 --------- Character Count -------
